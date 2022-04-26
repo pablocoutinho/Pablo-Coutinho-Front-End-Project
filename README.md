@@ -1,6 +1,7 @@
 
 # Front-End Web Development Project:
-- Dorset College BSC20921 
-- Front-end Web Development
-- Lecturer = Brendan Munnelly
+ Pablo Leite Coutinho 24055
+ Dorset College BSC20921 
+ Front-end Web Development
+ Brendan Munnelly
  
