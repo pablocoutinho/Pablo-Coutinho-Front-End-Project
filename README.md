@@ -1,3 +1,6 @@
-### Hi there 👋
 
-That is my project for the Module of Front-End Web Development 
+# Front-End Web Development Project:
+- Dorset College BSC20921 
+- Front-end Web Development
+- Lecturer = Brendan Munnelly
+ 
